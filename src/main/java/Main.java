@@ -1,5 +1,4 @@
 import com.test.bean.MainConfiguration;
-import com.test.mapper.TestMapper;
 import com.test.service.TestService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;

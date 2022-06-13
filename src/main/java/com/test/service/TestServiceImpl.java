@@ -2,7 +2,6 @@ package com.test.service;
 
 import com.test.mapper.TestMapper;
 import org.springframework.stereotype.Component;
-import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 import javax.annotation.Resource;
